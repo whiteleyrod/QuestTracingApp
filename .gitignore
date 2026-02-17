@@ -44,6 +44,7 @@ TracingApp/**/*.bundle
 .vscode/
 .idea/
 *.code-workspace
+.claude/
 
 # Python environment/tooling
 .venv/
