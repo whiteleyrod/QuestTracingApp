@@ -1,0 +1,2 @@
+C:\rod_w\TracingAppv2\TracingApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\rod_w\TracingAppv2\TracingApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

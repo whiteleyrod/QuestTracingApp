@@ -1,0 +1,14 @@
+{
+    "name": "Unity34eb5922e16350cf1227.Laserunlitred.Editor.Tests",
+    "references": [
+        "Unity34eb5922e16350cf1227.Laserunlitred.Editor",
+        "Unity34eb5922e16350cf1227.Laserunlitred"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

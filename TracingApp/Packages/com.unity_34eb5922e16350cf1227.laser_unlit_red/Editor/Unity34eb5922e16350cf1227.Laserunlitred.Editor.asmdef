@@ -1,0 +1,10 @@
+{
+    "name": "Unity34eb5922e16350cf1227.Laserunlitred.Editor",
+    "references": [
+      "Unity34eb5922e16350cf1227.Laserunlitred"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

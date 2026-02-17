@@ -1,0 +1,63 @@
+# Unity generated folders/files (inside project folder)
+TracingApp/[Ll]ibrary/
+TracingApp/[Tt]emp/
+TracingApp/[Oo]bj/
+TracingApp/[Bb]uild/
+TracingApp/[Bb]uilds/
+TracingApp/[Ll]ogs/
+TracingApp/[Uu]ser[Ss]ettings/
+TracingApp/[Mm]emoryCaptures/
+TracingApp/[Rr]ecordings/
+TracingApp/[Aa]rtifacts/
+TracingApp/*BackUpThisFolder_ButDontShipItWithYourGame/
+TracingApp/*BurstDebugInformation_DoNotShip/
+
+# Unity auto-generated project files
+TracingApp/*.csproj
+TracingApp/*.unityproj
+TracingApp/*.sln
+TracingApp/*.suo
+TracingApp/*.tmp
+TracingApp/*.user
+TracingApp/*.userprefs
+TracingApp/*.pidb
+TracingApp/*.booproj
+TracingApp/*.svd
+TracingApp/*.pdb
+TracingApp/*.mdb
+TracingApp/*.opendb
+TracingApp/*.VC.db
+TracingApp/*.pidb.meta
+TracingApp/*.pdb.meta
+TracingApp/*.mdb.meta
+
+# Gradle / Android build artifacts
+TracingApp/.gradle/
+TracingApp/**/build/
+TracingApp/**/*.apk
+TracingApp/**/*.aab
+TracingApp/**/*.keystore
+TracingApp/**/*.jks
+TracingApp/**/*.bundle
+
+# IDE/editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Python environment/tooling
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# MCP/tool outputs
+tools/mcp-unity-server/node_modules/
+tools/mcp-unity-server/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local generated patterns outside Unity project (legacy location)
+Assets/Resources/Patterns/

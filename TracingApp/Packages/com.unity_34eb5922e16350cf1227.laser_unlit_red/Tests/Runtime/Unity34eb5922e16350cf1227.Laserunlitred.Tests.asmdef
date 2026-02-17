@@ -1,0 +1,11 @@
+{
+    "name": "Unity34eb5922e16350cf1227.Laserunlitred.Tests",
+    "references": [
+        "Unity34eb5922e16350cf1227.Laserunlitred"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
